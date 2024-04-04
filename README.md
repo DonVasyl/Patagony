@@ -1,2 +1,2 @@
 # patagony
-a 386 GNU/Linux that you expected in 1994
+a 386 GNU/Linux you expected in 1994
